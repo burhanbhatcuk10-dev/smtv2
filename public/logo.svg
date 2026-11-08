@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150">
+  <ellipse cx="120" cy="70" rx="104" ry="46" fill="#fff" transform="rotate(-6 120 70)"/>
+  <path d="M18 88 C 30 30, 150 18, 214 50 C 150 34, 56 40, 18 88 Z" fill="#f2c200"/>
+  <path d="M60 104 C 110 110, 190 96, 226 66 C 196 94, 120 102, 60 104 Z" fill="#f2c200"/>
+  <circle cx="120" cy="66" r="40" fill="#14237a"/>
+  <text x="120" y="80" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-weight="700" font-size="46" fill="#fff">SM</text>
+  <text x="120" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="7" fill="#f2c200" letter-spacing=".5">TECHNOLOGIES</text>
+</svg>
